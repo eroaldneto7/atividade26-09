@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+}
+#topo{
+    display: flex;
+    align-items: center;
+    padding-left: 90px;
+    border-bottom: 0.5px solid #9A9EA6;
+}
+
+i{
+  
+    color: blue;
+    background-color: whitesmoke;
+    padding: 14px;
+    border-radius: 120%;
+}
+
+#logonome{
+    padding-left: 70%;
+    font-size: 20px;
+}
+#banner {
+    display: flex;
+    padding-top: 100px;
+}
+
+#txt_banner h1{
+ 
+    font-size: 80px;
+    font-weight: 700;
+    font-family: 'Plus Jakarta Sans';
+    padding-left: 15%;
+    padding-top: 10%;
+    width: 90%;
+    color: #14183E;
+
+}
+#txt_banner p{
+    font-size: 17px;
+    color:  #9A9EA6;
+}
+
+#txt_banner {
+    border: 1px solid black;
+}
+.txt_claro{
+    color: #4372EB;
+}
+#retangulo{
+    margin-top: 10%;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    background-color: #4372EB;
+    width: 250px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    border-radius: 20px 20px;
+}
+#veja{
+    margin: bottom 30px; ;
+    font-size: 20px;
+    font-weight: 400;
+}
+#botao{
+    border: 1px solid red;
+    align-items: center;
+    text-align: center;
+}
+
+i{
+    color: black;
+}
+
+
+
+
+
+
+
+   
+
+
